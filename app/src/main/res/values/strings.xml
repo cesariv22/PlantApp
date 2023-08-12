@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PlantApp</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">Plant App</string>
+    <string name="second_fragment_label">Plant App</string>
+
+    <!--General String-->
+    <string name="tv_title">Elige Tu Planta</string>
+    <string name="tv_plant_selected">Planta Seleccionada</string>
+    <string name="description_image">Imagen de planta</string>
+    <string name="description_icon">Icono de planta</string>
+    <string name="tv_plant">Planta</string>
+    <string name="tv_type">Tipo</string>
+    <string name="tv_type_select">Tipo:</string>
+    <string name="description_plant">Descripción de la planta</string>
+    <string name="btn_back">Volver</string>
+    <string name="btn_send_mail">Enviar Correo</string>
+</resources>
